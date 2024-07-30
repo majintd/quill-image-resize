@@ -1,5 +1,5 @@
 {
-  "name": "@ssumo/quill-resize-module",
+  "name": "@majintd/quill-image-resize",
   "version": "1.0.2",
   "main": "./dist/quill-resize-module.js",
   "typings": "types/main.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scrapooo/quill-resize-module.git"
+    "url": "https://github.com/majintd/quill-image-resize.git"
   },
   "license": "MIT",
   "keywords": [
