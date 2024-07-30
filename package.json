@@ -1,6 +1,6 @@
 {
   "name": "@majintd/quill-image-resize",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "./dist/quill-resize-module.js",
   "typings": "types/main.d.ts",
   "author": {
@@ -40,6 +40,7 @@
   },
   "files": [
     "src",
+    "dist/image/*.svg",
     "dist/*.js",
     "types/*.d.ts",
     "demo"
