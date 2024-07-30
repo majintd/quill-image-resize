@@ -18,7 +18,7 @@ a module that enables resize for image/iframe/video.
 
 ```javascript
 import Quill from "quill";
-import ResizeModule from "@ssumo/quill-resize-module";
+import ResizeModule from "@majintd/quill-image-resize";
 
 Quill.register("modules/resize", ResizeModule);
 
