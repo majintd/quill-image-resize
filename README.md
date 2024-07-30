@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QUILL-RESIZE-MODULE
 
 A module for Quill rich text editor to allow images to be resized.
@@ -91,3 +92,7 @@ const quill = new Quill(editor, {
   </script>
 </html>
 ```
+=======
+# quill-image-resize
+修改自scrapooo/quill-resize-module部分代码适用自己的项目
+>>>>>>> 23ec56cfe7161c87a50036455a9e1ecbb4469c66
