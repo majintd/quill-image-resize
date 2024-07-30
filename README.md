@@ -1,15 +1,10 @@
 <<<<<<< HEAD
 # QUILL-RESIZE-MODULE
-
-A module for Quill rich text editor to allow images to be resized.
-
-Also see [quill-resize-module](https://github.com/scrapooo/quill-resize-module),
-a module that enables resize for image/iframe/video.
-
+基于[scrapooo/quill-resize-module](https://github.com/scrapooo/quill-resize-module)上做出部分修改以符合自己的项目需求    
+1.右下角新增图片尺寸显示    
+2.修改快捷按钮，还原会重置图片位置和大小
 ## Demo
 ![image](https://github.com/user-attachments/assets/9dcd7172-15da-4ec3-94e7-e2d80544c32e)
-1.右下角新增图片尺寸显示
-2.修改快捷按钮，还原会重置图片位置和大小
 ## Usage
 
 ### Webpack/ES6
