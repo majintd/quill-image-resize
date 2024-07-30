@@ -23,6 +23,7 @@
     "@types/ms": "^0.7.30",
     "rollup": "^1.0.0",
     "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-less": "^1.1.2",
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-typescript": "^1.0.0",
