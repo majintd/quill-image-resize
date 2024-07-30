@@ -7,14 +7,14 @@ Also see [quill-resize-module](https://github.com/scrapooo/quill-resize-module),
 a module that enables resize for image/iframe/video.
 
 ## Demo
-
-![image](https://raw.githubusercontent.com/scrapooo/quill-resize-module/master/demo/demo.gif)
-
+![image](https://github.com/user-attachments/assets/9dcd7172-15da-4ec3-94e7-e2d80544c32e)
+1.右下角新增图片尺寸显示
+2.修改快捷按钮，还原会重置图片位置和大小
 ## Usage
 
 ### Webpack/ES6
 
-`npm install @ssumo/quill-resize-module`
+`npm install @majintd/quill-image-resize`
 
 ```javascript
 import Quill from "quill";
@@ -25,14 +25,7 @@ Quill.register("modules/resize", ResizeModule);
 const quill = new Quill(editor, {
   modules: {
     resize: {
-      locale: {
-        altTip: "按住alt键比例缩放",
-        inputTip: "回车键确认",
-        floatLeft: "靠左",
-        floatRight: "靠右",
-        center: "居中",
-        restore: "还原",
-      },
+      
     },
   },
 });
